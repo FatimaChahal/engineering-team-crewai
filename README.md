@@ -80,7 +80,7 @@ engineering_team/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/FatimaUPPA/engineering-team-crewai.git
+git clone https://github.com/FatimaChahal/engineering-team-crewai.git
 cd engineering-team-crewai
 ```
 
@@ -177,8 +177,8 @@ Pull requests welcome! Ideas for extensions:
 
 ## 👩‍💻 Author
 
-**Fatima Chahal** — Postdoctoral Researcher in AI & Geospatial Systems  
-[GitHub: FatimaUPPA](https://github.com/FatimaUPPA) | [LinkedIn](https://linkedin.com/in/fatima-chahal)
+**Fatima Chahal** — AI Engineering  
+[GitHub: FatimaChahal](https://github.com/FatimaChahal) | [LinkedIn](https://linkedin.com/in/fatima-chahal)
 
 ---
 
